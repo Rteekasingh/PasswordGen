@@ -17,10 +17,10 @@ var userArray = [];
 uppercaseArray [1]
 //-----------------------------------------------------------------
   var numCharacter = prompt ("How much number of Character you want between 8 and 128?");
-  var numbers = confirm ("you want numbers in your password?");
-  var uppercases = confirm ("you want Uppercases in your password?");
-  var lowercases = confirm ("you want lowercases in your password?");
-  var characters = confirm ("you want special characters in your password?");
+  var numbers = confirm (" Do you want numbers in your password?");
+  var uppercases = confirm ("Do you want Uppercases in your password?");
+  var lowercases = confirm ("Do you want lowercases in your password?");
+  var characters = confirm ("Doyou want special characters in your password?");
 
 
 // condition of the array
