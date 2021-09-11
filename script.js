@@ -20,7 +20,7 @@ uppercaseArray [1]
   var numbers = confirm (" Do you want numbers in your password?");
   var uppercases = confirm ("Do you want Uppercases in your password?");
   var lowercases = confirm ("Do you want lowercases in your password?");
-  var characters = confirm ("Doyou want special characters in your password?");
+  var characters = confirm ("Do you want special characters in your password?");
 
 
 // condition of the array
