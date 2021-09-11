@@ -1,4 +1,4 @@
-// Assignment cgit ode here
+// Assignment code here
 var generateBtn = document.querySelector("#generate");
 
 function generatePassword() {
